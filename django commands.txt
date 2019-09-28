@@ -1,0 +1,11 @@
+Check django version: django-admin --version
+
+creer un ficher sur cmd: mkdir djangogirls
+
+creer un virtual environment: python3 -m venv myvenv
+Activer son virtual env:  myvenv\Scripts\activate
+
+Installer pip: python -m pip install --upgrade pip
+
+Installer les pckets dans requirements.txt:  pip install -r requirements.txt
+cd my venv/scripts/activate 
